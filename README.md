@@ -1,4 +1,4 @@
-# Beginner-s-Roadmap-to-Bug-Bounty-Hunting
+# Beginners Roadmap to BugBounty Hunting
 
 Greetings! I'm **Lalatendu Swain**, a Security Engineer and part-time content creator. I've initiated this repository to provide guidance to aspiring bug bounty hunters. Content will be continually added, so stay tuned and let's embark on this journey together!
 
